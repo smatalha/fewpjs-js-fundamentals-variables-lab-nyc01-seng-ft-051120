@@ -2,4 +2,4 @@
 
 const companyName = 'Scuber';
 
-companyName = 'Chelsea'
+companyName == 'Chelsea'
